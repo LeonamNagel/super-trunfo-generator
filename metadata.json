@@ -1,0 +1,7 @@
+{
+  "name": "Gerador de Super Trunfo WK - Foto",
+  "description": "Um aplicativo que usa IA para pesquisar seu perfil profissional e gerar uma carta de 'Super Trunfo' personalizada com suas habilidades, uma biografia e uma imagem gerada por IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
